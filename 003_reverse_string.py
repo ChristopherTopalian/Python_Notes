@@ -1,11 +1,11 @@
 # reverse_string.py
 
-name = "kingdom"
+word = "kingdom"
 
 # slicing, start, stop, step
-reversedName = name[::-1]
+reversedWord = word[::-1]
 
-print(reversedName)
+print(reversedWord)
 
 input('')
 
@@ -19,4 +19,3 @@ modgnik
 # All Rights Reserved Christopher Andrew Topalian Copyright 2000-2024
 # https://github.com/ChristopherTopalian
 # https://sites.google.com/view/CollegeOfScripting
-
