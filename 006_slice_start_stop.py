@@ -8,7 +8,7 @@ print(people[0:2])
 input('')
 
 '''
-       0                1
+     0           1
 ['Melissa', 'Jennifer']
 '''
 
