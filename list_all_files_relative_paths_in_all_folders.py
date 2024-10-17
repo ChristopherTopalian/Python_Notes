@@ -21,7 +21,6 @@ input('')
 
 ##
 
-
 # image_gallery.html
 # listdir.py
 # listdir_endswith.py
