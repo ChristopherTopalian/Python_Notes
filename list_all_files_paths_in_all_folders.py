@@ -17,7 +17,6 @@ input('')
 
 ##
 
-
 #D:\_1Code\_2PY\_0PY_Published\Python_Computer_Science\py\dir\image_gallery.html
 #D:\_1Code\_2PY\_0PY_Published\Python_Computer_Science\py\dir\listdir.py
 #D:\_1Code\_2PY\_0PY_Published\Python_Computer_Science\py\dir\listdir_endswith.py
