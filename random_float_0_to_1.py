@@ -2,6 +2,7 @@
 
 import random
 
+# float from 0.0 to 1.0
 randomFloat = random.random()
 
 print(randomFloat)
