@@ -2,7 +2,7 @@
 
 import calendar
 
-# specify month and year
+# specify year and month
 theYear = 2029
 theMonth = 4
 
