@@ -3,11 +3,11 @@
 import calendar
 
 # specify month and year
-year = 2029
-month = 4
+theYear = 2029
+theMonth = 4
 
 # show the calendar for April 2029
-print(calendar.month(year, month))
+print(calendar.month(theYear, theMonth))
 
 input('')
 
